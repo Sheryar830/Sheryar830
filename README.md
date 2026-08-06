@@ -7,8 +7,8 @@
 Building scalable SaaS platforms, ERP systems, REST APIs, business applications and mobile products.
 
 [![Email](https://img.shields.io/badge/Email-shehryar.waris.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehryar.waris.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-111111?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheryarwaris/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://shehryarwaris.vercel.app/)
 
 📍 Sialkot, Pakistan · Available for remote opportunities
 
@@ -82,7 +82,7 @@ I have experience developing multi-tenant platforms, role-based systems, payment
 
 Contributed to a large enterprise platform containing more than 70 business modules. Worked on inventory management, reporting, payroll, scheduling, timesheets, client management, service operations, queues, scheduled jobs and third-party integrations.
 
-> Private commercial project — project details available through my portfolio.
+> Private commercial project — additional details are available through my portfolio.
 
 ---
 
@@ -90,9 +90,10 @@ Contributed to a large enterprise platform containing more than 70 business modu
 
 **Laravel · PHP · MySQL · JavaScript · REST APIs · Stripe · PayPal**
 
-Multi-tenant restaurant-management platform with:
+Developed a multi-tenant, role-based restaurant management platform featuring:
 
-- Point-of-sale system and kitchen dashboard
+- Point-of-sale system
+- Kitchen dashboard
 - Inventory and recipe consumption
 - Purchasing and stock management
 - Multi-branch operations
@@ -101,19 +102,15 @@ Multi-tenant restaurant-management platform with:
 - Thermal receipt and kitchen-ticket printing
 - Reporting and customer website management
 
-[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
-
 ---
 
 ### Inventory, Invoicing and Website Management SaaS
 
-**Laravel · PHP · MySQL · JavaScript · Stripe · PayPal**
+**Laravel · PHP · MySQL · JavaScript · REST APIs · Stripe · PayPal**
 
-Multi-tenant SaaS platform combining inventory, invoicing, customer management, vendor management, payments and company website management.
+Developed a multi-tenant SaaS platform combining inventory management, invoicing, customer management, vendor management, payments and company website management.
 
-Includes a visual website editor inspired by Shopify, allowing businesses to manage storefront content, products, pages and website settings.
-
-[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
+Built a visual website editor inspired by Shopify, allowing businesses to manage website content, products, pages, storefront appearance and company settings.
 
 ---
 
@@ -121,9 +118,18 @@ Includes a visual website editor inspired by Shopify, allowing businesses to man
 
 **Next.js · NestJS · TypeScript · PostgreSQL · Redis · Cloudflare R2**
 
-Internal business platform with project management, client portals, tasks, proposals, digital signatures, email workflows, AI-assisted proposal generation, content management and Cloudflare R2 file storage.
+Designed and developed an internal business platform featuring:
 
-[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
+- Project and task management
+- Customer relationship management
+- Client portals
+- Proposal management
+- Digital signatures
+- AI-assisted proposal generation
+- Email workflows
+- Content management
+- Social-media automation
+- Cloudflare R2 file storage
 
 ---
 
@@ -131,9 +137,33 @@ Internal business platform with project management, client portals, tasks, propo
 
 **Laravel · PHP · MySQL · AJAX · JavaScript · Stripe · PayPal**
 
-Bidding and invoicing platform with product bidding, AJAX search, customer dashboards, invoice management, product video previews, online payments, email notifications and a loyalty-points system.
+Developed a bidding and invoicing platform with AJAX-powered product search, customer bidding, invoice management, product video previews, payment processing, email notifications and customer dashboards.
 
-[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
+Implemented a loyalty-points system that allowed customers to earn points through invoice activity and use them for product bidding.
+
+---
+
+### ApplyLeaves — SaaS Leave Management
+
+**Laravel · PHP · MySQL · Razorpay · Google Calendar API**
+
+Developed a multi-tenant leave-management platform with subscription plans, employee leave requests, approval workflows, Razorpay payments, Google Calendar integration, SMTP configuration and system notifications.
+
+---
+
+### Bug Reporting and Tracking System
+
+**MongoDB · Express.js · React · Node.js**
+
+Developed a role-based bug-tracking platform for administrators, developers and testers with bug assignment, lifecycle tracking, comments, dashboards, notifications and real-time status updates.
+
+---
+
+### Gaming Blog CMS
+
+**Next.js · TypeScript · PostgreSQL · Cloudinary**
+
+Developed a content-management platform featuring role-based authentication, media management, Cloudinary uploads, newsletter integration, SEO controls and scheduled publishing.
 
 ---
 
@@ -147,16 +177,18 @@ Bidding and invoicing platform with product bidding, AJAX search, customer dashb
 - Developing inventory, reporting, payroll, scheduling, timesheet and service-operation modules.
 - Implementing QuickBooks Online, Google Maps, Google Drive, email queues and automation integrations.
 - Supporting production deployments, debugging and ongoing platform maintenance.
+- Collaborating remotely with developers and project stakeholders to deliver production features.
 
 ### Full-Stack Web Developer — CodxCanvas
 
 **Sialkot, Pakistan · September 2022 – September 2025**
 
-- Developed SaaS platforms, POS systems, invoicing systems, websites, APIs and mobile applications.
+- Developed SaaS platforms, POS systems, invoicing systems, business websites, REST APIs and mobile applications.
 - Created multi-tenant and role-based systems with subscriptions, dashboards and payment processing.
-- Integrated Stripe, PayPal, Razorpay, Google Calendar, Cloudinary and other services.
+- Integrated Stripe, PayPal, Razorpay, Google Calendar, Cloudinary and other third-party services.
 - Built applications using Laravel, Next.js, React, React Native, WordPress and Shopify.
 - Deployed and maintained applications using cPanel, Vercel and other hosting platforms.
+- Provided troubleshooting, performance optimization, maintenance and feature development.
 
 ---
 
@@ -164,9 +196,9 @@ Bidding and invoicing platform with product bidding, AJAX search, customer dashb
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sheryar830&show_icons=true&hide_border=true&include_all_commits=true" alt="Shehryar's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sheryar830&show_icons=true&hide_border=true&include_all_commits=true" alt="Shehryar Waris GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheryar830&layout=compact&hide_border=true" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheryar830&layout=compact&hide_border=true" alt="Shehryar Waris most used languages" />
 
 </div>
 
@@ -183,9 +215,11 @@ I am currently interested in remote opportunities involving:
 - ERP, CRM, inventory and invoicing systems
 - React Native application development
 
-📧 **Email:** [shehryar.waris.dev@gmail.com](mailto:shehryar.waris.dev@gmail.com)
-
 <div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehryar.waris.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheryarwaris/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://shehryarwaris.vercel.app/)
 
 ### Let’s build reliable software that solves real business problems.
 
