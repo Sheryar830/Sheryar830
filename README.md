@@ -18,7 +18,7 @@ Building scalable SaaS platforms, ERP systems, REST APIs, business applications 
 
 ## 👨‍💻 Professional Profile
 
-Full-Stack Developer with **3+ years of professional experience** building enterprise SaaS platforms, ERP and CRM systems, inventory and invoicing applications, REST APIs, business websites and mobile applications.
+Full-Stack Developer with **4 years of professional experience** building enterprise SaaS platforms, ERP and CRM systems, inventory and invoicing applications, REST APIs, business websites and mobile applications.
 
 My primary specialization is **Laravel and PHP**, supported by production experience with **Next.js, NestJS, Node.js, React and React Native**.
 
